@@ -26,5 +26,5 @@
 ### @TODO
 
 * 多文件相互引用；
-* 使用`py`或`html2convas`获得高清图片；
-* 整一个`pdf`版本 .
+* 使用`py`或[`html2convas`](https://segmentfault.com/a/1190000021468917)获得高清图片；
+* 整一个[`pdf`](https://blog.csdn.net/beyond__devil/article/details/84660702)版本 .
