@@ -8,7 +8,11 @@
 
 * 采用`puppeteer`截图，要求名称为`index.html`，输出图片为`screemshot.png`.
 
+
 ### RUN
+
+> 请配置`node`[环境](https://nodejs.org/zh-cn)，默认已配置完成
+> 
 
 1. 将代码下载到本地；
 2. 点击`index.html`，添加内容；
