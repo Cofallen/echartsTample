@@ -7,6 +7,18 @@
 *如果要使用npm安装echarts，请确保电脑已安装`node`，再执行`npm install echarts`，对应的引用路径需要修改 .*
 
 * 采用`puppeteer`截图，要求名称为`index.html`，输出图片为`screemshot.png`.
+
+### RUN
+
+1. 将代码下载到本地；
+2. 点击`index.html`，添加内容；
+3. 查看`index.html`是否正确显示；
+4. 在文件夹终端下输入`node test.js`生成图片；
+
+### 开发选项
+
+1. `test.js`中`deviceScaleFactor`可提高图片分辨率；
+
 ### @TODO
 
 * 多文件相互引用；
